@@ -1,0 +1,41 @@
+/*reset*/
+h1,p{
+    padding:0;
+    margin:0;
+    font-size:initial;
+    font-weight: initial;
+}
+
+body{
+    background-image: url(images/bg.png);
+    background-size: center;
+}
+.wrapper{
+    margin: 0 auto;
+
+    width: 300px;
+    color:white;
+}
+.wrapper img{
+    display: block;
+}
+.content{
+    padding: 15px;
+    background-color: #93572E;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0 10px #4A260B  ;
+}
+.content h1{
+    font-size:35px;
+    font-weight:900;
+}
+.content p{
+    padding:10px ;
+    font-size: medium;
+}
+
+
+
+
+
+/*shadow #4A260B*/

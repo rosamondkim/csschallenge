@@ -3,7 +3,6 @@ h1,p{
     padding:0;
     margin:0;
 }
-
 body{
     background-image: url(images/bg.png);
     background-size: center;
@@ -13,7 +12,7 @@ body{
     width: 300px;
     color:white;
 }
-.wrapper img{
+.wrapper img {
     display: block;
 }
 .contents {
@@ -27,14 +26,7 @@ body{
     font-weight: 900;
 }
 .contents p{
-
     padding-bottom: 30px;
     line-height: 140%;
     opacity: 50%;
 }
-
-
-
-
-
-/*shadow #4A260B*/
